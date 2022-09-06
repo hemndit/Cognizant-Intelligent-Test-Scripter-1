@@ -40,7 +40,7 @@
         <jetty.version>9.4.43.v20210629</jetty.version>
         
         <geherkin.version>5.0.0</geherkin.version>
-        <autocomplete.version>3.0.0</autocomplete.version>
+        <autocomplete.version>3.2.0</autocomplete.version>
         <apache.poi.version>4.1.0</apache.poi.version>
         
         <setupDir>../Dist/release</setupDir>
